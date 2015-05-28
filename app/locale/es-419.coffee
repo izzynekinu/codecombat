@@ -1422,4 +1422,4 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     u_title: "Lista de Usuarios"
     ucp_title: "Usuario con problemas de código"
     lg_title: "Últimos Juegos"
-    clas: "CLAs"
+    clas: "Clase"
